@@ -19,7 +19,7 @@ In this project, we did analysis and visualization on Telecalling Dataset using 
 
 Once you have installed all the above mentioned libraries on your computer,
 
-1. Clone the project to your computer by running `git clone https://github.com/cyboravidell/Telecalling-Data-Analysis` on your Git terminal.
+1. Clone the project to your computer by running `git clone https://github.com/anukritysrivastava1/Telecalling-Data-Analysis` on your Git terminal.
 
 2. In the directory of the folder `Telecalling-Data-Analysis` containing the files of the respository, open up the terminal and run `jupyter notebook`.
 
